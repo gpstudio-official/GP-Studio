@@ -1,11 +1,11 @@
 # Olympus — Chrome Theme  
 A cinematic, atmospheric Chrome theme crafted by G.P Studio.
 
-![Preview](../preview.png)
+![Preview](preview.png)
 
 ## 📦 Download
 Pobierz motyw:
-[Kliknij tutaj, aby pobrać Olympus_Theme.zip](../Olympus_Theme.zip)
+[Kliknij tutaj, aby pobrać Olympus_Theme.zip](Olympus_Theme.zip)
 
 ## 🎨 Opis
 Olympus to minimalistyczny, ciemny motyw inspirowany estetyką filmową i studyjną.  
